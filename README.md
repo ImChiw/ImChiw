@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **SAP ABAP**
 
-- 📫 How to reach me **marvinbabilong@gmail.com**
+- 📫 How to reach me? **marvinbabilong@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
