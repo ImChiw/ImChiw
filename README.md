@@ -1,5 +1,19 @@
-<h1 align="center">Hi 👋, I'm Marvin Abilong</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture> , I'm Marvin Abilong
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
+</picture></h1>
+<h3 align="center">A Back End Developer from Philippines   
+<picture>
+  <img src="https://www.animatedimages.org/data/media/857/animated-philippines-flag-image-0006.gif"  width="32" height="20">
+</picture>
+
+</h3> 
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
